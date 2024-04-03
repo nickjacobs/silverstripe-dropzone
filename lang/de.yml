@@ -1,0 +1,13 @@
+de:
+  Dropzone:
+    ADDEDNOW: 'Soeben hinzugefügt'
+    ADDEDON: 'Hinzugefügt am {date}'
+    ATTACHFILEHERE_OR: 'Hängen Sie eine Datei an, indem Sie sie hier ablegen.'
+    ATTACHFILESHERE_OR: 'Hängen Sie Dateien an, indem Sie sie hier ablegen.'
+    BROWSEYOURCOMPUTER: 'Ihren Computer durchsuchen'
+    CHANGEAFTERSAVE: 'Die Änderung wird nach dem Speichern wirksam.'
+    CHOOSEEXISTING: 'aus vorhandenen Dateien auswählen'
+    DELETED: gelöscht
+    DETACHFILE: entfernen
+    ERROR: 'Oh nein!'
+    YOUCANALSO: "Sie können auch"
