@@ -1173,7 +1173,7 @@ class FileAttachmentField extends FileField
      */
     public function DropzoneDir()
     {
-        return ModuleLoader::inst()->getManifest()->getModule('unclecheese/dropzone')
+        return ModuleLoader::inst()->getManifest()->getModule('chromos33/dropzone')
             ->getResourcesDir();
     }
 
