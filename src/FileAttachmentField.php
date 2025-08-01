@@ -1299,7 +1299,7 @@ class FileAttachmentField extends FileField
         $name = $this->getName();
         $record = $this->getRecord();
 
-        $ext = pathinfo($filename, PATHINFO_EXTENSION);
+        $ext = pathinfo((string) $filename, PATHINFO_EXTENSION);
         $defaultClass = File::get_class_for_file_extension($ext);
 
         if(empty($name) || empty($record)) {
